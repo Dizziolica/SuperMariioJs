@@ -88,4 +88,6 @@ const jump = () => {
 <h2>Créditos</h2>
 <p> Este projeto foi inspirado no jogo Super Mario da Nintendo. As imagens utilizadas neste jogo são propriedade da Nintendo.</p>
 <h2>Licença</h2>
-<p>Este projeto é licenciado sob a licença MIT. Consulte o arquivo LICENSE para obter mais informações.</p>
+
+
+![](https://github.com/Dizziolica/SuperMariioJs/blob/main/ezgif.com-crop.gif)
