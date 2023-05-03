@@ -75,18 +75,18 @@ const jump = () => {
   }, 500);
 }
 </code></pre>
-<p>Este código cria a função <code>jump()</code>, que adiciona a classe "animate" ao elemento HTML do Mario e, em seguida, remove essa classe após meio segundo. Esta função é chamada quando a tecla "espaço" é pressionada.</p>
+<p>Este código cria a função <code>jump()</code>, que adiciona a classe "jump" ao elemento HTML do Mario e, em seguida, remove essa classe após meio segundo. Esta função é chamada quando a tecla "espaço" é pressionada.</p>
 <h2>Instalação</h2>
 <p>Para executar o jogo localmente, siga as instruções abaixo:</p>
 <ol>
-  <li>Clone este repositório: <code>git clone https://github.com/seunome/super-mario-jump-game.git</code></li>
+  <li>Clone este repositório: <code>git clone https://github.com/Dizziolica/SuperMariioJs.git</code></li>
   <li>Abra o arquivo <code>index.html</code> em seu navegador da web.</li>
   <li>Pressione a tecla "espaço" para fazer com que o Super Mario pule.</li>
 </ol>
 <h2>Contribuição</h2>
 <p>Sinta-se à vontade para contribuir com este projeto criando um pull request. Se você encontrar algum bug ou problema, por favor, crie uma issue.</p>
 <h2>Créditos</h2>
-<p> Este projeto foi inspirado no jogo Super Mario da Nintendo. As imagens utilizadas neste jogo são propriedade da Nintendo.</p>
+<p> Este projeto foi inspirado no jogo Super Mario da Nintendo. As imagens utilizadas estão no repositorio.</p>
 <h2>Licença</h2>
 
 
