@@ -1,4 +1,58 @@
+
+<br />
+<div align="center">
+  <a href="https://github.com/Dizziolica/SuperMariioJs">
+    <img src="/dizziolica.jpg" alt="Logo" width="80" height="80">
+  </a>
+
+
+
+
 <h1>Super Mario Jump Game</h1>
+
+  <h3 align="center">Super Mario Project</h3>
+
+  <p align="center">
+    Utility Project
+    <br />
+    <a href="https://github.com/Dizziolica/SuperMariioJs"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/Dizziolica/SuperMariioJs">View Demo</a>
+    
+   
+  </p>
+</div>
+
+
+
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Content</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href= "https://github.com/Dizziolica/SuperMariioJs" >Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#usage">Usage</a></li>
+    <li><a href="#tools">Roadmap</a></li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgments">Acknowledgments</a></li>
+  </ol>
+</details>
+
+
 <p>Este é um pequeno projeto de jogo do Super Mario criado com HTML, JavaScript e CSS. O objetivo do jogo é fazer com que o Super Mario pule os canos que passam rapidamente pela janela do jogo. O jogo é simples de jogar e pode ser executado em um navegador da web.</p>
 <h2>Como jogar</h2>
 <p>Para começar a jogar, siga as instruções abaixo:</p>
